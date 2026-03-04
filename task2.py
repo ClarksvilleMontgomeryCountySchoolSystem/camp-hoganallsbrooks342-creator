@@ -37,4 +37,3 @@ days = int(days)
 
 
 # zip_code
-
